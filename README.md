@@ -15,3 +15,17 @@ Se compara scorurile *Rand Index* ale algoritmului pentru primele 2 situatii de
 mai sus, iar rezultatele sunt in general similare. Pentru anumite (cateva)
 numere de clustere si anumite dataseturi, *K-means++* da rezultate **putin** mai
 bune.
+
+
+### Laborator 2 - Arbori de decizie
+Se implementeaza clasificarea unor seturi de date prin 3 algoritmi:
+- `randomTree` - atributul fiecarui nod e ales aleator
+- `id3` - atributul fiecarui nod este cel ce maximizeaza `gain`-ul
+- `randomForest` - o colectie de arbori aleatori, fiecare fiind antrenat pe un
+subset din exemplele de antrenament
+
+Apoi, se compara acuratetile, preciziile si regasirilor acestor modele,
+observandu-se cand apare fenomenul de *overfitting* la `randomForest` si ca
+pe masura ce adancimea unui arbore aleator creste, forma si felul in care acesta
+ia decizia se aseamana tot mai mult cu cele ale unui model antrenat cu
+algoritmul `id3`.

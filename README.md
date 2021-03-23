@@ -29,3 +29,10 @@ observandu-se cand apare fenomenul de *overfitting* la `randomForest` si ca
 pe masura ce adancimea unui arbore aleator creste, forma si felul in care acesta
 ia decizia se aseamana tot mai mult cu cele ale unui model antrenat cu
 algoritmul `id3`.
+
+
+### Laborator 3 - Regresie liniara
+Se implementeaza un model clasic de regresie liniara: unul fara si altul cu
+regularizare si se observa ca primul are *overfitting* cand setul de antrenare e
+mic, pe cand cel de-al doilea se comporta mai bine chiar si pe seturi mici de
+antrenare.

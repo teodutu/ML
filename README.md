@@ -36,3 +36,8 @@ Se implementeaza un model clasic de regresie liniara: unul fara si altul cu
 regularizare si se observa ca primul are *overfitting* cand setul de antrenare e
 mic, pe cand cel de-al doilea se comporta mai bine chiar si pe seturi mici de
 antrenare.
+
+
+### Laborator 4 - Boosting
+Se compara `AdaBoost` si `GradientBoost` cu arbori de decizie chiori +
+`RandomForest`. Cam la fel de vrajeala ca si pana acum :(.

@@ -41,3 +41,10 @@ antrenare.
 ### Laborator 4 - Boosting
 Se compara `AdaBoost` si `GradientBoost` cu arbori de decizie chiori +
 `RandomForest`. Cam la fel de vrajeala ca si pana acum :(.
+
+
+### Laborator 5 - SVM
+O basina copiata probabil de
+[aici](https://xavierbourretsicotte.github.io/SVM_implementation.html).
+Ecuatiile nu-s explicate deloc, iar codul n-are sens mai deloc. Era mai misto la
+IA. Macar acolo parea ca-i pasase cuiva de laburi.

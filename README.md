@@ -48,3 +48,7 @@ O basina copiata probabil de
 [aici](https://xavierbourretsicotte.github.io/SVM_implementation.html).
 Ecuatiile nu-s explicate deloc, iar codul n-are sens mai deloc. Era mai misto la
 IA. Macar acolo parea ca-i pasase cuiva de laburi.
+
+### Laborator 6 - Reinforcement Learning
+Se gaseste o planificare pentru a ajunge dintr-o pozitie in alta intr-un
+labirint 2D, folosind atat *Policy Iteration*, cat si *Value Iteration*.

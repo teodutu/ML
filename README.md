@@ -55,6 +55,12 @@ Se gaseste o planificare pentru a ajunge dintr-o pozitie in alta intr-un
 labirint 2D, folosind atat *Policy Iteration*, cat si *Value Iteration*.
 
 
+### Laborator 7 - Q Learning
+Se implementeaza algoritmul *Q Learning* to pentru a rezolva un labirint 2D.
+Ca de obicei, trebui bulaniti hiperparametri pana da bine. O mizerie. Era mai
+misto la IA.
+
+
 
 ## Teme
 ### Tema 1 - Clasificare

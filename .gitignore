@@ -128,8 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Zip files
+# Binaries
+*.mp3
 *.zip
-
-# Assignment 1
 Teme/Tema1/images

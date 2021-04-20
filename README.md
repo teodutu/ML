@@ -49,6 +49,15 @@ O basina copiata probabil de
 Ecuatiile nu-s explicate deloc, iar codul n-are sens mai deloc. Era mai misto la
 IA. Macar acolo parea ca-i pasase cuiva de laburi.
 
+
 ### Laborator 6 - Reinforcement Learning
 Se gaseste o planificare pentru a ajunge dintr-o pozitie in alta intr-un
 labirint 2D, folosind atat *Policy Iteration*, cat si *Value Iteration*.
+
+
+
+## Teme
+### Tema 1 - Clasificare
+Se compara mai multi algoritmi de clasificare: *Random Forest*, *XGBoost*,
+*SVM*, *Naive Bayes* si *K-means*. O mizerie de tema in care doar luam modelele
+din `sklearn` si tunam hiperparametrii. Un fel de `from keras import ...` :(.

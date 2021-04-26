@@ -132,3 +132,4 @@ dmypy.json
 *.mp3
 *.zip
 Teme/Tema1/images
+*.gz

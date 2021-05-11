@@ -61,6 +61,16 @@ Ca de obicei, trebui bulaniti hiperparametri pana da bine. O mizerie. Era mai
 misto la IA.
 
 
+### Laborator 8 - MLP
+Se clasifica cifrele din [MNIST](https://en.wikipedia.org/wiki/MNIST_database)
+folosind o retea *MLP* cu 2 straturi si un *ReLU* intre ele. Acuratetea fara
+inertie e 95.61%, iar cu inertie 97.81%.
+
+
+### Laborator 9 - Retele convolutionale
+Aceeasi problema ca labul trecut, dar cu o retea *LeNet*. Acuratetea nu creste
+cand modelului i se adauga inertie, pentru ca modelul se satureaza.
+
 
 ## Teme
 ### Tema 1 - Clasificare

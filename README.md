@@ -67,3 +67,12 @@ misto la IA.
 Se compara mai multi algoritmi de clasificare: *Random Forest*, *XGBoost*,
 *SVM*, *Naive Bayes* si *K-means*. O mizerie de tema in care doar luam modelele
 din `sklearn` si tunam hiperparametrii. Un fel de `from keras import ...` :(.
+
+
+### Tema 2 - Q-Learning
+Se implementeaza *Q-Learning* si *SARSA* si iar se cauta acul in carul cu fan
+(hiperparametrii optimi). E interesant totusi ca pentru anumite recompense,
+algoritmii nu converg. De exemplu, cand recompensa pentru o miscare simpla e 0
+si nu -1, *SARSA* nu mai are de ce sa invete nimic si toate Q-urile sunt 0. Dar
+tot o mizerie e in care cea mai mare parte din timp se pierde asteptand sa
+ruleze `for in for in for ...`.

@@ -133,3 +133,4 @@ dmypy.json
 *.zip
 Teme/Tema1/images
 *.gz
+**/Lab10/data

@@ -71,6 +71,11 @@ inertie e 95.61%, iar cu inertie 97.81%.
 Aceeasi problema ca labul trecut, dar cu o retea *LeNet*. Acuratetea nu creste
 cand modelului i se adauga inertie, pentru ca modelul se satureaza.
 
+### Laborator 10 - ResNet
+Parca putin mai ok explicat decat labul trecut, se implementeaza *ResNet-50* si
+se testeaza pe *CIFAR*. Dureaza mult antrenarea, drept care n-am rulat toate 200
+de epocie. Csf? Ncsf.
+
 
 ## Teme
 ### Tema 1 - Clasificare

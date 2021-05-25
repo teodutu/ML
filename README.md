@@ -71,10 +71,20 @@ inertie e 95.61%, iar cu inertie 97.81%.
 Aceeasi problema ca labul trecut, dar cu o retea *LeNet*. Acuratetea nu creste
 cand modelului i se adauga inertie, pentru ca modelul se satureaza.
 
+
 ### Laborator 10 - ResNet
 Parca putin mai ok explicat decat labul trecut, se implementeaza *ResNet-50* si
 se testeaza pe *CIFAR*. Dureaza mult antrenarea, drept care n-am rulat toate 200
 de epocie. Csf? Ncsf.
+
+
+### Laborator 11 - Algoritmi genetici
+Se implementeaza un algoritm genetic are rezolva problema rucsacului. Adica se
+porneste cu o populatie initiala de 1000 de alegeri random ale obiectelor, iar
+la fiecare noua generatie sunt pastrati 100 de indivizi care se reproduc aleator
+(se combina inceputul unui set de obiecte de la un individ cu sfarsitul de la
+altul) rezultand alti 900 de indivizi s.a.m.d. timp de 100 de generatii.
+
 
 
 ## Teme

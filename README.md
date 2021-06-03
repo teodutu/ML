@@ -101,3 +101,14 @@ algoritmii nu converg. De exemplu, cand recompensa pentru o miscare simpla e 0
 si nu -1, *SARSA* nu mai are de ce sa invete nimic si toate Q-urile sunt 0. Dar
 tot o mizerie e in care cea mai mare parte din timp se pierde asteptand sa
 ruleze `for in for in for ...`.
+
+
+### Tema 3 - Clasificare de fete
+Se folosesc un *MLP*, un *CNN* si o combinatie de *VGG* + *SVM* ca sa se
+clasifice fete. Se foloseste setul de date
+[Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/).
+
+Pe scurt, orice model are acurateti mici pe intreg setul de date ca-s prea
+multe fete si nu intelege nimic din ele. Cand se reduce setul de date la
+cele mai numeroase 5 clase, *MLP*-ul si *CNN*-ul ajung pe la 80-90%, iar
+combo-ul de *VGG* + *SVM* la 57%. Un cacat de tema...
